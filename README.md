@@ -1,1 +1,2 @@
-# COURSERA-QUIZS
+# Coursera-Assign
+Coursera Assignments
